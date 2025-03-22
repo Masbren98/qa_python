@@ -1,5 +1,6 @@
 from main import BooksCollector
 
+
 class TestBooksCollector:
 
     def test_add_new_book_add_two_books(self):
